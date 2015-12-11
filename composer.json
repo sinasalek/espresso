@@ -1,5 +1,5 @@
 {
-    "name": "bklein01/espresso",
+    "name": "react/espresso",
     "description": "Silex wired with radioactive caffeine. Forked from ReactPHP to support the latest version.",
     "keywords": ["microframework"],
     "license": "MIT",
