@@ -1,12 +1,12 @@
 {
-    "name": "react/espresso",
+    "name": "sinasalek/react-espresso",
     "description": "Silex wired with radioactive caffeine. Forked from ReactPHP to support the latest version.",
     "keywords": ["microframework"],
     "license": "MIT",
     "require": {
         "php": ">=5.3.3",
-        "react/http": "0.3.*",
-        "silex/silex": "1.0.*@dev"
+        "react/http": "0.4.*",
+        "silex/silex": "2.*"
     },
     "autoload": {
         "psr-0": { "React\\Espresso": "src" }
